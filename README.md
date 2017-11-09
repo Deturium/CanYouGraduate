@@ -1,6 +1,6 @@
 # CanYouGraduate?
 
-##Preview
+## Preview
 
 ![preview](./img.png)
 
